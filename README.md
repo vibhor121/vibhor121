@@ -1,14 +1,3 @@
-Sure! I can help you customize your portfolio to match your friend's but with your GitHub username. Here’s how you can modify your portfolio to reflect your new username:
-
-### 1. Update Profile Picture and Cover Image
-Replace the profile and cover images with your own or ones you prefer. Make sure they are hosted online or in your GitHub repository.
-
-### 2. Update GitHub Username and Links
-You need to replace all instances of `rmauryaa` with `vibhor121`. This includes links, profile stats, and any specific references to your old username.
-
-### Example of Updated Portfolio
-
-```html
 <div align="center">
 
 ---
