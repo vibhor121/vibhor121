@@ -46,4 +46,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhor121&&theme=dark" alt="vibhor121"  /></p>
 
+---
+
+## 💼 Work Experience
+
+- **Software Engineer at mFilterIt**  
+  Worked on developing and enhancing full-stack web applications, with a strong focus on **frontend development using React.js and Next.js**.  
+  - Built scalable and user-friendly interfaces improving user experience.  
+  - Gained hands-on experience with **Python** and **FastAPI** for backend services.  
+  - Collaborated in a team environment following agile practices to deliver high-quality features.  
+  - Actively contributed to optimizing performance, implementing secure APIs, and integrating modern UI libraries like **Tailwind CSS** and **Bootstrap**.  
+
+---
+
+
 
