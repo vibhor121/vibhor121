@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Dev Projects**
 
-- ⚡ Fun fact - **I can talk 24/7 about Cricket**
+
 <br><br>
 
 ---
